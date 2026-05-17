@@ -1,0 +1,1 @@
+This application shows how to  create a custom PWM signal using values written in the ARR register by DMA t exclude any CPU dependencies
